@@ -31,7 +31,7 @@ Before using the dashboard, ensure you have the following:
    - Split time column into two different columns Date and Time1
    - Add a column Month that will contain name of months extgracted from time column.
 
-### **Dashboard Link** - https://app.powerbi.com/groups/me/reports/80826c5b-3031-453f-853d-e9dc76065741/ReportSection5ea2e771743befaeab9e?experience=power-bi
+### **Dashboard Link** - https://app.powerbi.com/groups/me/reports/ebeb4c9e-a6f8-4e24-b846-9e638172b1ab/ReportSection?experience=power-bi
 
 ### **Features of Dashboard**
 1. Top 10 tweets by URL - This column chart shows tweets by URl by applying Advanced Filter option on tweets (TOP N set to 10)
